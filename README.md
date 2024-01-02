@@ -1,1 +1,1 @@
-# gen-ai-dump
+# GenAI_Playground
